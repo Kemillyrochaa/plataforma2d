@@ -1,16 +1,10 @@
 fileFormatVersion: 2
-guid: 7fdecee6a74c05c4b8838e2312f31bb1
+guid: 7d3978d4f65275b4182fb17a418748b8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8432150772545199069
-    second: 20240707dragonTabD-Sheet_0
-  - first:
-      213: 1545718386264613338
-    second: 20240707dragonTabD-Sheet_1
-  - first:
-      213: 5950616484964147899
-    second: 20240707dragonTabD-Sheet_2
+      213: -5541107675706389100
+    second: 20240707dragonHeaderB_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -106,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 20240707dragonTabD-Sheet_0
+      name: 20240707dragonHeaderB_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 39
-        height: 22
+        y: 2
+        width: 96
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -121,52 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ddb9712c374050570800000000000000
-      internalID: 8432150772545199069
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 20240707dragonTabD-Sheet_1
-      rect:
-        serializedVersion: 2
-        x: 41
-        y: 0
-        width: 84
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ad1a718ceae737510800000000000000
-      internalID: 1545718386264613338
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 20240707dragonTabD-Sheet_2
-      rect:
-        serializedVersion: 2
-        x: 125
-        y: 0
-        width: 39
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bb22fd45a26d49250800000000000000
-      internalID: 5950616484964147899
+      spriteID: 49d845f4de70a13b0800000000000000
+      internalID: -5541107675706389100
       vertices: []
       indices: 
       edges: []
@@ -184,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      20240707dragonHeaderB_0: -5541107675706389100
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,19 +1,16 @@
 fileFormatVersion: 2
-guid: 615ef8f80bc8ee34594847f0b4d1b3c6
+guid: 5d6d0ac17ef1be844be143f0bc49bd2b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2455923911838539156
-    second: 20240707dragon9SlicesATexture_0
+      213: -8759447546116525926
+    second: 20240707dragonTabC-Sheet_0
   - first:
-      213: 1815414549005031956
-    second: 20240707dragon9SlicesATexture_1
+      213: -4082613537557461506
+    second: 20240707dragonTabC-Sheet_1
   - first:
-      213: -1082587640192642021
-    second: 20240707dragon9SlicesATexture_2
-  - first:
-      213: 8173743973665096062
-    second: 20240707dragon9SlicesATexture_3
+      213: 3029539493606123430
+    second: 20240707dragonTabC-Sheet_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,13 +106,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 20240707dragon9SlicesATexture_0
+      name: 20240707dragonTabC-Sheet_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 3
-        width: 144
-        height: 138
+        y: 0
+        width: 39
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,20 +121,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c62e977d63ecaedd0800000000000000
-      internalID: -2455923911838539156
+      spriteID: a90be09cdd0307680800000000000000
+      internalID: -8759447546116525926
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 20240707dragon9SlicesATexture_1
+      name: 20240707dragonTabC-Sheet_1
       rect:
         serializedVersion: 2
-        x: 56
-        y: 54
-        width: 19
-        height: 6
+        x: 41
+        y: 0
+        width: 84
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -146,20 +143,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 41a5581f9e5a13910800000000000000
-      internalID: 1815414549005031956
+      spriteID: ef5cfa24e94a757c0800000000000000
+      internalID: -4082613537557461506
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 20240707dragon9SlicesATexture_2
+      name: 20240707dragonTabC-Sheet_2
       rect:
         serializedVersion: 2
-        x: 69
-        y: 2
-        width: 42
-        height: 6
+        x: 125
+        y: 0
+        width: 39
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -168,30 +165,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b14d61ce640e9f0f0800000000000000
-      internalID: -1082587640192642021
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 20240707dragon9SlicesATexture_3
-      rect:
-        serializedVersion: 2
-        x: 82
-        y: 25
-        width: 42
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e714c4376d8fe6170800000000000000
-      internalID: 8173743973665096062
+      spriteID: 6a7e8654e161b0a20800000000000000
+      internalID: 3029539493606123430
       vertices: []
       indices: 
       edges: []
@@ -209,7 +184,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      20240707dragonTabC-Sheet_0: -8759447546116525926
+      20240707dragonTabC-Sheet_1: -4082613537557461506
+      20240707dragonTabC-Sheet_2: 3029539493606123430
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,43 +1,42 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class MenuController : MonoBehaviour
+public class MenuManager : MonoBehaviour
 {
     public GameObject painelConfiguracoes;
     public GameObject painelCreditos;
+    public GameObject painelExtras;
 
-    // Botão "Nova Partida"
-    public void IniciarJogo()
+    public void NovaPartida()
     {
         SceneManager.LoadScene("Jogo");
     }
 
-    // Botão "Configurações"
-    public void AbrirConfiguracoes()
+    public void Configuracoes()
     {
         painelConfiguracoes.SetActive(true);
+        painelCreditos.SetActive(false);
+        painelExtras.SetActive(false);
     }
 
-    public void FecharConfiguracoes()
-    {
-        painelConfiguracoes.SetActive(false);
-    }
-
-    // Botão "Créditos"
-    public void MostrarCreditos()
+    public void Creditos()
     {
         painelCreditos.SetActive(true);
+        painelConfiguracoes.SetActive(false);
+        painelExtras.SetActive(false);
     }
 
-    public void FecharCreditos()
+    public void Extras()
     {
+        painelExtras.SetActive(true);
+        painelConfiguracoes.SetActive(false);
         painelCreditos.SetActive(false);
     }
 
-    // Botão "Sair"
-    public void SairJogo()
+    public void FecharTudo()
     {
-        Debug.Log("Saindo do jogo...");
-        Application.Quit();
+        painelConfiguracoes.SetActive(false);
+        painelCreditos.SetActive(false);
+        painelExtras.SetActive(false);
     }
 }

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 81edc5e0bff103e41bbf27aac318ec28
+guid: 8d3b04ebcbfb38344b8328b37e34d494
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7130830498150096124
-    second: 20240707dragon9SlicesC_0
+      213: 3156489355600477585
+    second: 20240707dragonHeaderA_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 20240707dragon9SlicesC_0
+      name: 20240707dragonHeaderA_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 48
-        height: 48
+        y: 2
+        width: 96
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cfc12cbae8cc5f260800000000000000
-      internalID: 7130830498150096124
+      spriteID: 19d3ed9585a1ecb20800000000000000
+      internalID: 3156489355600477585
       vertices: []
       indices: 
       edges: []
@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      20240707dragonHeaderA_0: 3156489355600477585
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

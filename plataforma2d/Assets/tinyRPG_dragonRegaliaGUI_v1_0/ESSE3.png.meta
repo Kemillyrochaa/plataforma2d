@@ -1,16 +1,16 @@
 fileFormatVersion: 2
-guid: b8f1046fac102f54c88b8b3ed410cd66
+guid: 7fdecee6a74c05c4b8838e2312f31bb1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7206670191654451395
-    second: 20240707dragonTabE-Sheet_0
+      213: 8432150772545199069
+    second: 20240707dragonTabD-Sheet_0
   - first:
-      213: 2289217799175516619
-    second: 20240707dragonTabE-Sheet_1
+      213: 1545718386264613338
+    second: 20240707dragonTabD-Sheet_1
   - first:
-      213: -2152191566563410905
-    second: 20240707dragonTabE-Sheet_2
+      213: 5950616484964147899
+    second: 20240707dragonTabD-Sheet_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -106,7 +106,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 20240707dragonTabE-Sheet_0
+      name: 20240707dragonTabD-Sheet_0
       rect:
         serializedVersion: 2
         x: 0
@@ -121,14 +121,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d374a0da4a3ccfb90800000000000000
-      internalID: -7206670191654451395
+      spriteID: ddb9712c374050570800000000000000
+      internalID: 8432150772545199069
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 20240707dragonTabE-Sheet_1
+      name: 20240707dragonTabD-Sheet_1
       rect:
         serializedVersion: 2
         x: 41
@@ -143,14 +143,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bc1bb55a57fe4cf10800000000000000
-      internalID: 2289217799175516619
+      spriteID: ad1a718ceae737510800000000000000
+      internalID: 1545718386264613338
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 20240707dragonTabE-Sheet_2
+      name: 20240707dragonTabD-Sheet_2
       rect:
         serializedVersion: 2
         x: 125
@@ -165,8 +165,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 72c756a4c21e122e0800000000000000
-      internalID: -2152191566563410905
+      spriteID: bb22fd45a26d49250800000000000000
+      internalID: 5950616484964147899
       vertices: []
       indices: 
       edges: []
@@ -184,7 +184,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      20240707dragonTabD-Sheet_0: 8432150772545199069
+      20240707dragonTabD-Sheet_1: 1545718386264613338
+      20240707dragonTabD-Sheet_2: 5950616484964147899
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

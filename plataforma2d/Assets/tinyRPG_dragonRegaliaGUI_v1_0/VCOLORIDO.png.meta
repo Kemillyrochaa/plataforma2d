@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: 83cd7cd68bf23ea4c8cd01b2cf73d473
+guid: d7005afac4f98764bbf6f7ef97ae6d92
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -513430830639937637
-    second: 20240707dragon9SlicesA_0
+      213: -1272986484444413495
+    second: 20240707dragonTabA-Sheet_0
+  - first:
+      213: 6500050073570041699
+    second: 20240707dragonTabA-Sheet_1
+  - first:
+      213: -6946343470111640390
+    second: 20240707dragonTabA-Sheet_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +106,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 20240707dragon9SlicesA_0
+      name: 20240707dragonTabA-Sheet_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 5
         y: 0
-        width: 144
-        height: 144
+        width: 30
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +121,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b9709fa316defd8f0800000000000000
-      internalID: -513430830639937637
+      spriteID: 9c141d67981755ee0800000000000000
+      internalID: -1272986484444413495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240707dragonTabA-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 72
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fd4696a11d43a50800000000000000
+      internalID: 6500050073570041699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240707dragonTabA-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab43420da61a99f90800000000000000
+      internalID: -6946343470111640390
       vertices: []
       indices: 
       edges: []
@@ -134,7 +184,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      20240707dragonTabA-Sheet_0: -1272986484444413495
+      20240707dragonTabA-Sheet_1: 6500050073570041699
+      20240707dragonTabA-Sheet_2: -6946343470111640390
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
