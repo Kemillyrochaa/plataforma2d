@@ -1,7 +1,7 @@
 using UnityEngine;
 
 [RequireComponent(typeof(Rigidbody2D))]
-public class PlayerController : MonoBehaviour
+public partial class PlayerController : MonoBehaviour
 {
     public float velocidade = 5f;
     public float forcaPulo = 10f;
@@ -16,7 +16,7 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
         float movimento = Input.GetAxis("Horizontal");
-        rb.velocity = new Vector2(movimento * velocidade, rb.velocity.y);
+        rb.linearVelocity = new Vector2(movimento * velocidade, rb.linearVelocity.y);
 
         if (estaNoChao && Input.GetButtonDown("Jump"))
         {
